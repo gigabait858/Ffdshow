@@ -209,4 +209,4 @@ FFDShow is provided as a full free version with all features and updates include
 Enhance your multimedia experience today! **Download FFDShow for free** and unlock the full potential of your video playback capabilities.
 
 ---
-**Last updated:** 2026-09-24 03:47:58 UTC
+**Last updated:** 2026-09-24 09:06:43 UTC
